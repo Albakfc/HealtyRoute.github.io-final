@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healty Route</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Agrega un archivo CSS para dar estilo a estos elementos -->
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #0084ff;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        header img {
+            max-width: 100px;
+        }
+
+        nav {
+            background-color: #fff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            padding: 1rem;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+        }
+
+        nav li {
+            margin-right: 1rem;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <!-- Aquí puedes agregar contenido para el encabezado -->
+</header>
+
+<nav>
+    <ul>
+        <li><a href="file:///C:/Users/juanj/Aprender.html">Aprender</a></li>
+        <li><a href="file:///C:/Users/juanj/rachas.html">Rachas</a></li>
+        <li><a href="file:///C:/Users/juanj/comunidad.html">Comunidad</a></li>
+       
+        <li><a href="file:///C:/Users/juanj/perfil.html">Perfil</a></li>
+        <li><a href="file:///C:/Users/juanj/mas.html">Más</a></li>
+    </ul>
+</nav>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f7f7f7;
+        margin: 0;
+        padding: 0;
+    }
+    header {
+        background-color: #ffffff;
+        color: #000000;
+        text-align: center;
+        padding: 1rem;
+    }
+    h1 {
+        font-size: 2rem;
+    }
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 2rem;
+    }
+    p {
+        font-size: 1.1rem;
+        line-height: 1.5;
+    }
+    a {
+        color: #0084ff;
+        text-decoration: none;
+    }
+    .left-align {
+        text-align: left;
+    }
+ </style>
+  </head>
+  <body>
+    <header>
+    <h1>Healty Route</h1>
+   </header>
+<div class="container">
+    <h2>¡Dejar atrás las Adicciones: Un Viaje hacia la Libertad con Ayuda Tecnológica
+        !</h2>
+    <p>
+        Dejar atrás las Adicciones: Un Viaje hacia la Libertad con Ayuda Tecnológica
+        
+        En un mundo cada vez más conectado, las adicciones pueden presentarse en diversas formas, desde el uso compulsivo de las redes sociales hasta la dependencia de sustancias nocivas. Estas adicciones pueden tener un impacto devastador en la vida personal, social y profesional de quienes las padecen. Sin embargo, gracias a los avances tecnológicos, ahora tenemos herramientas poderosas al alcance de nuestras manos para ayudarnos a superarlas.
+        
+        Una de las claves para dejar atrás una adicción es el reconocimiento del problema y el deseo genuino de cambiar. Afortunadamente, existen aplicaciones diseñadas específicamente para apoyar a las personas en su viaje hacia la recuperación. Estas aplicaciones ofrecen una variedad de funciones y recursos que pueden ser fundamentales en el proceso de rehabilitación.</p>
+    <h2 class="left-align">                         1. Seguimiento y Autoreflexión</h2>
+    <p class="left-align">Muchas aplicaciones proporcionan herramientas para realizar un seguimiento del consumo de la sustancia o del comportamiento adictivo. Estos registros pueden ayudar a las personas a ser conscientes de sus hábitos y a identificar los desencadenantes que llevan a la compulsión. Al registrar el progreso a lo largo del tiempo, los usuarios pueden visualizar su mejora y sentirse motivados para seguir adelante.</p>
+    <h2>2. Apoyo Comunitario  </h2>
+    <p>  La sensación de no estar solo en la lucha contra la adicción puede ser profundamente reconfortante. Las aplicaciones a menudo cuentan con comunidades en línea donde los usuarios pueden compartir sus experiencias, dar y recibir apoyo mutuo, y encontrar inspiración en los éxitos de otros. Esta red de apoyo puede ser fundamental durante los momentos difíciles y proporcionar una sensación de pertenencia y comprensión. </p>
+    <h2>3. Herramientas de Manejo del Estrés  </h2>
+    <p> Muchas adicciones están estrechamente relacionadas con el estrés y otras dificultades emocionales. Por lo tanto, las aplicaciones a menudo ofrecen técnicas de relajación, meditación y mindfulness para ayudar a los usuarios a manejar el estrés de manera saludable y a desarrollar habilidades de afrontamiento alternativas. </p>
+     <h2> 4. Recordatorios y Metas  </h2>
+     <p>  Establecer metas alcanzables y recibir recordatorios periódicos puede ser fundamental en el camino hacia la recuperación. Las aplicaciones pueden ayudar a los usuarios a establecer objetivos realistas y a mantenerse enfocados en su progreso a través de recordatorios personalizados y seguimiento de logros.</p>
+    <h2> 5. Educación y Recursos</h2>
+    <p>  El conocimiento es una herramienta poderosa en la lucha contra la adicción. Las aplicaciones a menudo proporcionan información educativa sobre los efectos de la adicción, estrategias para evitar recaídas y recursos para buscar ayuda profesional cuando sea necesario. Este acceso a la información puede empoderar a los usuarios y ayudarles a tomar decisiones informadas sobre su recuperación.</p>
+    <p>¿quieres charlar con alguin ? <a href="chat con profecionales">chat con profecionales</a> o <a href="chat con alguien de nuestra comunidad ">chat con alguien de nuestra comunidadz</a>.</p>
+
+
+
+</div>
+</body>
+
+</html>
