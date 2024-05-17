@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healty Route</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Agrega un archivo CSS para dar estilo a estos elementos -->
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #0084ff;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        header img {
+            max-width: 100px;
+        }
+
+        nav {
+            background-color: #fff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            padding: 1rem;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+        }
+
+        nav li {
+            margin-right: 1rem;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <!-- Aquí puedes agregar contenido para el encabezado -->
+</header>
+
+<nav>
+    <ul>
+        <li><a href="file:///C:/Users/juanj/Aprender.html">Aprender</a></li>
+        <li><a href="file:///C:/Users/juanj/rachas.html">Rachas</a></li>
+        <li><a href="file:///C:/Users/juanj/comunidad.html">Comunidad</a></li>
+        
+        <li><a href="file:///C:/Users/juanj/perfil.html">Perfil</a></li>
+        <li><a href="file:///C:/Users/juanj/mas.html">Más</a></li>
+    </ul>
+</nav>
+</nav>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f7f7f7;
+        margin: 0;
+        padding: 0;
+    }
+    header {
+        background-color: #ffffff;
+        color: #000000;
+        text-align: center;
+        padding: 1rem;
+    }
+    h1 {
+        font-size: 2rem;
+    }
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 2rem;
+    }
+    p {
+        font-size: 1.1rem;
+        line-height: 1.5;
+    }
+    a {
+        color: #0084ff;
+        text-decoration: none;
+    }
+    .left-align {
+        text-align: left;
+    }
+ </style>
+  </head>
+  <body>
+    <header>
+    <h1>Healty Route</h1>
+   </header>
+<title>Comunidad</title>
+<style>
+    /* Estilos para la pestaña de comunidad */
+    body {
+        font-family: Arial, sans-serif;
+    }
+    .comunidad {
+        width: 100%;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #f9f9f9;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+    .chat {
+        background-color: #fff;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+    .buzon {
+        background-color: #fff;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 10px;
+    }
+</style>
+</head>
+<body>
+<div class="comunidad">
+    <h1>Comunidad</h1>
+    <div class="chat">
+        <!-- Aquí iría el chat de texto con otras personas -->
+        <h2>Chat de la comunidad</h2>
+        <p>¡Bienvenidos a nuestro chat! Comparte tus ideas, preguntas y experiencias.</p>
+        <!-- Aquí puedes agregar un formulario para enviar mensajes -->
+    </div>
+    <div class="chat">
+        <!-- Aquí iría el chat con profesionales -->
+        <h2>Chat con profesionales</h2>
+        <p>¿Necesitas asesoramiento? ¡Habla con nuestros expertos!</p>
+    </div>
+    <div class="buzon">
+        <!-- Aquí iría el buzón para dejar comentarios, dudas, etc. -->
+        <h2>Buzón de sugerencias</h2>
+        <p>¿Alguna idea para mejorar nuestra comunidad? Déjanos tus comentarios aquí.</p>
+        <!-- Aquí puedes agregar un formulario para enviar sugerencias -->
+    </div>
+</div>
+</body>
+</html>
+
+<!-- Agrega tu JavaScript y otros elementos HTML aquí -->
+
+<script src="script.js"></script> <!-- Si deseas funcionalidades interactivas, crea un archivo JS -->
+
+</body>
+</html>
