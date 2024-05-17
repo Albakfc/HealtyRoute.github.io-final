@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healty Route</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Agrega un archivo CSS para dar estilo a estos elementos -->
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #0084ff;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        header img {
+            max-width: 100px;
+        }
+
+        nav {
+            background-color: #fff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            padding: 1rem;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+        }
+
+        nav li {
+            margin-right: 1rem;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <!-- Aquí puedes agregar contenido para el encabezado -->
+</header>
+
+<nav>
+    <ul>
+        <li><a href="file:///C:/Users/juanj/Aprender.html">Aprender</a></li>
+        <li><a href="file:///C:/Users/juanj/rachas.html">Rachas</a></li>
+        <li><a href="file:///C:/Users/juanj/comunidad.html">Comunidad</a></li>
+        
+        <li><a href="file:///C:/Users/juanj/perfil.html">Perfil</a></li>
+        <li><a href="file:///C:/Users/juanj/mas.html">Más</a></li>
+    </ul>
+</nav>
+</nav>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f7f7f7;
+        margin: 0;
+        padding: 0;
+    }
+    header {
+        background-color: #ffffff;
+        color: #000000;
+        text-align: center;
+        padding: 1rem;
+    }
+    h1 {
+        font-size: 2rem;
+    }
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 2rem;
+    }
+    p {
+        font-size: 1.1rem;
+        line-height: 1.5;
+    }
+    a {
+        color: #0084ff;
+        text-decoration: none;
+    }
+    .left-align {
+        text-align: left;
+    }
+ </style>
+  </head>
+  <body>
+    <header>
+    <h1>Healty Route</h1>
+   </header>
+
+    <link rel="stylesheet" href="styles.css"> <!-- Agrega un archivo CSS para dar estilo a estos elementos -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+        }
+
+        .profile-container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        .profile-picture {
+            max-width: 150px;
+            border-radius: 50%;
+            margin-bottom: 10px;
+        }
+
+        .username {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .user-description {
+            font-size: 16px;
+            color: #888;
+            margin-bottom: 20px;
+        }
+
+        .settings-link {
+            color: #0084ff;
+            text-decoration: none;
+        }
+
+        .activity-history {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        .activity-item {
+            margin-bottom: 10px;
+        }
+
+        .achievement-list {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        .achievement-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .achievement-icon {
+            margin-right: 10px;
+        }
+
+        .statistics {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        .stat-item {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="profile-container">
+        <img src="profile-picture.jpg" alt="Foto de perfil" class="profile-picture">
+        <h2 class="username">Nombre de Usuario</h2>
+        <p class="user-description">Descripción del usuario. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <a href="settings.html" class="settings-link">Configuración</a>
+
+        <!-- Historial de actividades -->
+        <div class="activity-history">
+            <h3>Historial de Actividades</h3>
+            <div class="activity-item">Publicaste un comentario en <a href="#">"Tema interesante"</a>.</div>
+            <div class="activity-item">Completaste el desafío "Carrera de 5 km".</div>
+            <!-- Agrega más elementos de actividad aquí -->
+        </div>
+
+        <!-- Logros o insignias -->
+        <div class="achievement-list">
+            <h3>Logros</h3>
+            <div class="achievement-item">
+                <img src="badge1.png" alt="Logro 1" class="achievement-icon">
+                Logro 1: Comentador activo
+            </div>
+            <div class="achievement-item">
+                <img src="badge2.png" alt="Logro 2" class="achievement-icon">
+                Logro 2: Corredor experimentado
+            </div>
+            <!-- Agrega más logros aquí -->
+        </div>
+
+        <!-- Estadísticas de uso -->
+        <div class="statistics">
+            <h3>Estadísticas</h3>
+            <div class="stat-item">Tiempo total en línea: 10 horas</div>
+            <div class="stat-item">Publicaciones realizadas: 50</div>
+            <!-- Agrega más estadísticas aquí -->
+        </div>
+    </div>
+</body>
+</html>
