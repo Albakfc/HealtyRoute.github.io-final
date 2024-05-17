@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healty Route</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Agrega un archivo CSS para dar estilo a estos elementos -->
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #0084ff;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        header img {
+            max-width: 100px;
+        }
+
+        nav {
+            background-color: #fff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            padding: 1rem;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+        }
+
+        nav li {
+            margin-right: 1rem;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <!-- Aquí puedes agregar contenido para el encabezado -->
+</header>
+
+<nav>
+    <ul>
+        <li><a href="file:///C:/Users/juanj/Aprender.html">Aprender</a></li>
+        <li><a href="file:///C:/Users/juanj/rachas.html">Rachas</a></li>
+        <li><a href="file:///C:/Users/juanj/comunidad.html">Comunidad</a></li>
+       
+        <li><a href="file:///C:/Users/juanj/perfil.html">Perfil</a></li>
+        <li><a href="file:///C:/Users/juanj/mas.html">Más</a></li>
+    </ul>
+</nav>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f7f7f7;
+        margin: 0;
+        padding: 0;
+    }
+    header {
+        background-color: #ffffff;
+        color: #000000;
+        text-align: center;
+        padding: 1rem;
+    }
+    h1 {
+        font-size: 2rem;
+    }
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 2rem;
+    }
+    p {
+        font-size: 1.1rem;
+        line-height: 1.5;
+    }
+    a {
+        color: #0084ff;
+        text-decoration: none;
+    }
+    .left-align {
+        text-align: left;
+    }
+ </style>
+  </head>
+  <body>
+    <header>
+    <h1>Healty Route</h1>
+   </header>
+
+    <title>Más</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Agrega un archivo CSS para dar estilo a estos elementos -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+        }
+
+        .more-container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        .setting-item {
+            margin-bottom: 20px;
+        }
+
+        .setting-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .setting-description {
+            font-size: 14px;
+            color: #888;
+        }
+
+        .setting-link {
+            color: #0084ff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="more-container">
+        <div class="setting-item">
+            <h3 class="setting-title">Preferencias de idioma</h3>
+            <p class="setting-description">Elige el idioma de la interfaz de la aplicación.</p>
+        </div>
+        <div class="setting-item">
+            <h3 class="setting-title">Notificaciones</h3>
+            <p class="setting-description">Configura las notificaciones por correo electrónico o en la aplicación.</p>
+        </div>
+        <div class="setting-item">
+            <h3 class="setting-title">Privacidad</h3>
+            <p class="setting-description">Ajusta las opciones de privacidad para compartir o no compartir cierta información.</p>
+        </div>
+        <div class="setting-item">
+            <h3 class="setting-title">Seguridad</h3>
+            <p class="setting-description">Cambia tu contraseña o activa la autenticación de dos factores.</p>
+        </div>
+        <div class="setting-item">
+            <h3 class="setting-title">Temas</h3>
+            <p class="setting-description">Personaliza la apariencia de la aplicación con diferentes temas.</p>
+        </div>
+        <div class="setting-item">
+            <h3 class="setting-title">Cerrar sesión</h3>
+            <p class="setting-description">Cierra la sesión actual y vuelve a la pantalla de inicio de sesión.</p>
+        </div>
+        <!-- Agrega más configuraciones aquí -->
+    </div>
+</body>
+</html>
