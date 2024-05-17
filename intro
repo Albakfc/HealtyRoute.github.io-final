@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>healty route</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #0084ff;
+            color: #ffffff;
+            text-align: center;
+            padding: 1rem;
+        }
+        h1 {
+            font-size: 2rem;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        p {
+            font-size: 1.1rem;
+            line-height: 1.5;
+        }
+        a {
+            color: #0084ff;
+            text-decoration: none;
+        }
+        .left-align {
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Healty route</h1>
+    </header>
+    <div class="container">
+        <h2>¡Bienvenido a Healty route!</h2>
+        <p>¡Bienvenido a nuestra plataforma para cultivar hábitos positivos y dejar atrás los vicios! Estamos aquí para ofrecerte el apoyo y los recursos necesarios para hacer este cambio. Desde consejos prácticos hasta una comunidad solidaria, te guiaremos hacia una vida más plena y libre de hábitos no deseados.</p>
+        <h2 class="left-align">                         ¡Comunidad que te Entiende!</h2>
+        <p class="left-align">Conéctate con personas que están pasando por lo mismo y que te brindarán todo su apoyo. Estamos aquí para ofrecerte el apoyo y los recursos necesarios para hacer este cambio. Desde consejos prácticos hasta una comunidad solidaria, te guiaremos hacia una vida más plena y libre de hábitos no deseados.</p>
+        <p>¿Listo para comenzar? <a href="file:///C:/Users/juanj/incio%20de%20secion.html">Inicia sesión</a> o <a href="file:///C:/Users/juanj/crear%20cuenta.html">crea una cuenta</a>.</p>
+    </div>
+</body>
+</html>
