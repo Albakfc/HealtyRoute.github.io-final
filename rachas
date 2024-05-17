@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="styles.css"> <!-- Agrega un archivo CSS para dar estilo a estos elementos -->
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #0084ff;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        header img {
+            max-width: 100px;
+        }
+
+        nav {
+            background-color: #fff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            padding: 1rem;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+        }
+
+        nav li {
+            margin-right: 1rem;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="file:///C:/Users/juanj/Aprender.html">Aprender</a></li>
+        <li><a href="file:///C:/Users/juanj/rachas.html">Rachas</a></li>
+        <li><a href="file:///C:/Users/juanj/comunidad.html">Comunidad</a></li>
+       
+        <li><a href="file:///C:/Users/juanj/perfil.html">Perfil</a></li>
+        <li><a href="file:///C:/Users/juanj/mas.html">Más</a></li>
+    </ul>
+</nav>
+
+<!-- Agrega tu JavaScript y otros elementos HTML aquí -->
+
+<script src="script.js"></script> <!-- Si deseas funcionalidades interactivas, crea un archivo JS -->
+
+</body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healty Route</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ffffff;
+            color: #000000;
+            text-align: center;
+            padding: 1rem;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        p {
+            font-size: 1.1rem;
+            line-height: 1.5;
+        }
+        a {
+            color: #0084ff;
+            text-decoration: none;
+        }
+        .left-align {
+            text-align: left;
+        }
+        .counter {
+            font-size: 1.2rem;
+            font-weight: bold;
+        }
+        .monthly-challenge {
+            background-color: #f9f9f9;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        .rewards-tab {
+            background-color: #f9f9f9;
+            padding: 20px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Healty Route</h1>
+    </header>
+    <div class="container">
+        <h2>¡Bienvenido a Healty Route!</h2>
+        <p>¡Aquí encontrarás apoyo para superar las adicciones y cultivar hábitos saludables! Estamos contigo en este viaje.</p>
+        <div class="counter">Racha diarias: 1</div>
+        <h3>Desafíos del día:</h3>
+        <ol>
+            <li>Lee un artículo sobre cómo superar las adicciones.</li>
+            <li>Realiza 10 minutos de meditación para reducir el estrés.</li>
+            <li>Identifica un hábito negativo y reemplázalo por uno positivo.</li>
+        </ol>
+        <div class="monthly-challenge">
+            <h3>Desafío del mes:</h3>
+            <p>Este mes, intenta hacer ejercicio al menos 30 minutos al día. ¡Cuida tu cuerpo y mente!</p>
+        </div>
+        <div class="rewards-tab">
+            <h3>Premios y bonificaciones:</h3>
+            <p>Por cada desafío completado, acumulas puntos. Canjea tus puntos por recompensas como libros, meditaciones guiadas o descuentos en actividades saludables.</p>
+        </div>
+    </div>
+</body>
+</html>
+</html>
